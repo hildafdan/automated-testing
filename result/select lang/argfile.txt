@@ -1,0 +1,7 @@
+--include=lang
+--outputdir
+c:\users\user-pc\appdata\local\temp\RIDEngjk_l.d
+-C
+off
+-W
+40

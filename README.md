@@ -1,12 +1,13 @@
-# Automation Testing for http://automationpractice.com
+# Mobile Automation Testing for Soulusi Develop
 
 #Test case#
+- Select languange
 - Login
-- Search
+- Add question
 
 #Library
 - Robot Framework
-- Selenium2Library
+- AppiumLibrary
 
 #System Requirement
 - Python 2.7 or higher

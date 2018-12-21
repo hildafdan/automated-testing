@@ -1,6 +1,6 @@
 # Mobile Automation Testing for Soulusi Develop
 
-#Test case#
+#Test case
 - Select languange
 - Login
 - Add question

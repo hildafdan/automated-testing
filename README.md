@@ -4,6 +4,7 @@
 - Select languange
 - Login
 - Add question
+- Logout
 
 #Library
 - Robot Framework

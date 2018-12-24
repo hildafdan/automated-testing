@@ -1,6 +1,10 @@
+--include=open
+--include=lang
+--include=login
+--include=logout
 --outputdir
-c:\users\user-pc\appdata\local\temp\RIDEngjk_l.d
+c:\users\user-pc\appdata\local\temp\RIDEnrowcg.d
 -C
 off
 -W
-40
+145
